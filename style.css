@@ -1,16 +1,5 @@
 * {
     font-family: 'Source Sans Pro', sans-serif !important;
+    background-color: #292929 !important;
+    color: #fff !important;
 }
-@media (prefers-color-scheme: dark) {
-    body {
-      background-color: black;
-      color: white;
-    }
-  }
-  @media (prefers-color-scheme: light) {
-    body {
-      background-color: white;
-      color: black;
-    }
-  }
-  
